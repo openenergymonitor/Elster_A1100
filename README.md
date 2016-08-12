@@ -1,4 +1,9 @@
 # Elster_A1100
+
+Updated to use DIG3: INT1
+
+***
+
 Arduino sketch to decode IR data from the IRDA port in the Elster electicity meter
 
 Using this IR reciever:

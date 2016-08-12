@@ -1,5 +1,5 @@
 /*
-  Updated to use PIN3: INT1
+  Updated to use DIG3: INT1
   
   ****************
   
